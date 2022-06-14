@@ -27,3 +27,12 @@ Sales has been increased from 2010 to 2011.
 
 The business can focus on these different clusters and provide to customers of each sector in a different way, which would not only benefit the customer but also the business at large.
 
+## **Credits**
+
+Soni Rani | Data Scientist | Machine Learning Enthusiast
+
+## **References**
+1. RFM Analysis - https://clevertap.com/blog/rfm-analysis/
+2. K-Means Clustering - https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+3. Elbow Method - https://www.scikit-yb.org/en/latest/api/cluster/elbow.html
+
