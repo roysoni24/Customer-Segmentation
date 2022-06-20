@@ -28,13 +28,13 @@ This Project includes 1 colab notebook and 1 presentation Pdf.
 
 ### **Executable Files:**
 
-**Online_Retail_Customer_Segmentation_Capstone_Project.ipynb** - Includes all Exploratory Data Analysis and all functions required for Clustering operations.
+[Online_Retail_Customer_Segmentation](https://github.com/roysoni24/Customer-Segmentation/blob/main/Copy_of_Online_Retail_Customer_Segmentation_Capstone_Project.ipynb) - Includes all Exploratory Data Analysis and all functions required for Clustering operations.
 
-**customer segmentation ppt.pdf** - Includes presentation pdf of the project.
+[customer segmentation ppt.pdf](https://github.com/roysoni24/Customer-Segmentation/blob/main/Copy_of_Online_Retail_Customer_Segmentation_Capstone_Project.ipynb) - Includes pdf of presentation of the project.
 
 ### **Output:**
 
-Google Colab - All the outputs are visible in the provided colab notebook.
+[Google Colab](https://github.com/roysoni24/Customer-Segmentation/blob/main/Copy_of_Online_Retail_Customer_Segmentation_Capstone_Project.ipynb) - All the outputs are visible in the provided colab notebook.
 
 
 ## 📋 **Execution Instruction:**
